@@ -3,6 +3,7 @@ var Schema = mongoose.Schema;
 
 var StageSchema = new Schema({
   name: { type: String, default: '' },
+  category: String,
   x: Number,
   y: Number,
   width: Number,

@@ -1,6 +1,7 @@
 [
   {
     "name": "Niitty",
+    "category": "Rock",
     "x": 100,
     "y": 100,
     "width": 100,
@@ -8,6 +9,7 @@
   },
   {
     "name": "Ranta",
+    "category": "Rock",
     "x": 300,
     "y": 300,
     "width": 100,
@@ -15,6 +17,7 @@
   },
   {
     "name": "Teltta",
+    "category": "Rock",
     "x": 500,
     "y": 500,
     "width": 100,
@@ -22,6 +25,7 @@
   },
   {
     "name": "Louna",
+    "category": "Rock",
     "x": 700,
     "y": 700,
     "width": 100,
@@ -29,6 +33,7 @@
   },
   {
     "name": "Mini",
+    "category": "Rock",
     "x": 900,
     "y": 900,
     "width": 100,
